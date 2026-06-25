@@ -1,44 +1,38 @@
-# Clause Landing Page
+# React Practice
 
-## About
+This repository contains my React practice projects.
 
-This is a simple landing page inspired by the Clause website. It is built using React and Tailwind CSS.
+## Projects
 
-## Features
+### 1. Simple Calculator
+- Created a simple calculator using React.
+- Performed basic arithmetic operations.
+- Used React state to update the result.
 
-- Navbar
-- Hero Section
-- Partner Companies Section
-- Lucide Icons
-- Clean UI Design
+### 2. Accessing List Items
+- Practiced storing data in arrays of objects.
+- Displayed list items using the `map()` function.
+- Passed data as props to components.
+
+### 3. YouTube Grid Layout
+- Built a YouTube-style video grid layout.
+- Displayed video cards with thumbnail, title, channel name, views, and upload date.
+- Used reusable React components.
+- Styled the layout using CSS.
+
+## What I Learned
+
+- Creating React components
+- Using props
+- Using `useState`
+- Rendering lists with `map()`
+- Working with arrays of objects
+- Building reusable UI components
 
 ## Technologies Used
 
 - React.js
-- Tailwind CSS
-- Lucide React
 - JavaScript
-
-## What I Learned
-
-### Tailwind CSS
-
-- Flexbox
-- Spacing
-- Colors
-- Typography
-- Borders
-- Shadows
-- Hover Effects
-
-### Lucide Icons
-
-- Installing Lucide React
-- Importing Icons
-- Using Icons in Components
-
-## Components
-
-- Navbar
-- Hero Section
-- Companies Section
+- HTML
+- CSS
+- Vite
