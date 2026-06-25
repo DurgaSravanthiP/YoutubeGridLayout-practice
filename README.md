@@ -1,16 +1,44 @@
-# React + Vite
+# Clause Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+## About
 
-Currently, two official plugins are available:
+This is a simple landing page inspired by the Clause website. It is built using React and Tailwind CSS.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Features
 
-## React Compiler
+- Navbar
+- Hero Section
+- Partner Companies Section
+- Lucide Icons
+- Clean UI Design
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Technologies Used
 
-## Expanding the Oxlint configuration
+- React.js
+- Tailwind CSS
+- Lucide React
+- JavaScript
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+## What I Learned
+
+### Tailwind CSS
+
+- Flexbox
+- Spacing
+- Colors
+- Typography
+- Borders
+- Shadows
+- Hover Effects
+
+### Lucide Icons
+
+- Installing Lucide React
+- Importing Icons
+- Using Icons in Components
+
+## Components
+
+- Navbar
+- Hero Section
+- Companies Section
